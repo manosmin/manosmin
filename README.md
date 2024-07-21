@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Manos </h2> 
 
-<p>I'm a recent <b>computer engineering grad </b>🎓 diving into the tech world. I'm on the lookout for my first job where I can turn my coding skills and project experience into real-world solutions 🧑🏻‍💻. I love tackling challenging problems, building cool stuff, and learning new things every day. Check out my repos to see what I've been working on 🙂!</p>
+<p>I'm a recent <b>computer engineering graduate </b>🎓 diving into the tech world. I'm on the lookout for my first job where I can turn my coding skills and project experience into real-world solutions 🧑🏻‍💻. I love tackling challenging problems, building cool stuff, and learning new things every day. Check out my repos to see what I've been working on 🙂!</p>
 
 ###
 
@@ -17,33 +17,33 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />   
+  <img width="10" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />      
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://i.imgur.com/Gglg3Nl.jpeg" height="30" alt="ceid logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://i.imgur.com/xlH5V7N.png" height="30" alt="tsak logo"  />
-  <img width="12" />
+  <img width="10" />
    
           
 </div>
