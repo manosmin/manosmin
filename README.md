@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm Manos </h2> 
 
+<p>I'm a recent <b>computer engineering grad </b>🎓 diving into the tech world. I'm on the lookout for my first job where I can turn my coding skills and project experience into real-world solutions 🧑🏻‍💻. I love tackling challenging problems, building cool stuff, and learning new things every day. Check out my repos to see what I've been working on 🙂!</p>
+
 ###
 
 <div align="right">
