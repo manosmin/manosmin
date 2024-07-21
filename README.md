@@ -2,10 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manosmin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="147" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manosmin&theme=tokyonight&hide_border=true" height="147" alt="total graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosmin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="147" alt="languages graph"  />
+<div align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manosmin&theme=tokyonight&hide_border=true" height="150" alt="total graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosmin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
