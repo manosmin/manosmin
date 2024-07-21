@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manos and I'm a recent computer engineering graduate from Greece</h2>
+<h2 align="left">Hi 👋! My name is Manos and I'm a Computer Engineering & Informatics Dpt. graduate from Greece</h2>
 
 ###
 
