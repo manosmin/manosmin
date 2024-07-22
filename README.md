@@ -68,7 +68,7 @@
 ###
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-<span><img align="left" src="https://profile-counter.glitch.me/manosmin/count.svg" height="25" alt="visitor counter"  /></span> 
+<span><img align="center" src="https://profile-counter.glitch.me/manosmin/count.svg" height="25" alt="visitor counter"  /></span> 
 
 ###
 
