@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! I'm Manos </h2> 
+<h2 align="left">Hi 👋! I'm Manos   <span><img align="right" src="https://profile-counter.glitch.me/manosmin/count.svg" height="30" alt="visitor counter"  /></span> </h2>
+
+
 
 <p>I'm a recent <b>computer engineering graduate </b>🎓 diving into the tech world. I'm looking for opportunities where I can turn my coding skills and project experience into real-world solutions 🧑🏻‍💻. I love tackling challenging problems, building cool stuff, and learning new things every day 🏃🏻. Check out my repos to see what I've been working on 🙂!</p>
 
