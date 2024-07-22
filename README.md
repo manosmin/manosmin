@@ -40,10 +40,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
   <img width="10" />
+  <img src="https://i1.rgstatic.net/ii/profile.image/272205305085952-1441910210010_Q512/Efstratios-Gallopoulos.jpg" height="30" alt="pateras_matlab logo"  />
+  <img width="10" />
   <img src="https://i.imgur.com/Gglg3Nl.jpeg" height="30" alt="ceid logo"  />
   <img width="10" />
-  <img src="https://i.imgur.com/xlH5V7N.png" height="30" alt="tsak logo"  />
-  <img width="10" />
+
    
           
 </div>
