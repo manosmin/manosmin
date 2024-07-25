@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="140" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -45,7 +45,7 @@
   <img src="https://i1.rgstatic.net/ii/profile.image/272205305085952-1441910210010_Q512/Efstratios-Gallopoulos.jpg" height="30" alt="pateras_matlab logo"  />
   <img width="10" />
   <img src="https://i.imgur.com/Gglg3Nl.jpeg" height="30" alt="ceid logo"  />
-
+  <img width="10" />
 </div>
 
 ###
