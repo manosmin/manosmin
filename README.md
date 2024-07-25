@@ -13,39 +13,39 @@
 
 ###
 
-<img align="right" height="140" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="10" />   
+  <img width="8" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />      
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://i1.rgstatic.net/ii/profile.image/272205305085952-1441910210010_Q512/Efstratios-Gallopoulos.jpg" height="30" alt="pateras_matlab logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://i.imgur.com/Gglg3Nl.jpeg" height="30" alt="ceid logo"  />
-  <img width="10" />
+  <img width="8" />
 </div>
 
 ###
