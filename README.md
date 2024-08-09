@@ -60,6 +60,9 @@
   <a href="https://www.discordapp.com/users/270397164209963009" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
+  <a href="https://manosm.in" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo"></img>
+    </a>
 </div>
 
 ###
