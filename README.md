@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b76119i483e449z9a7lo0xqte19mmzippfomvdhb3kz7e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> 
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+<!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  /> -->
 <span><img align="center" src="https://profile-counter.glitch.me/manosmin/count.svg" height="25" alt="visitor counter"  /></span> 
 
 ###
