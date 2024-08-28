@@ -48,7 +48,7 @@
 
 <div align="left">
   <a href="mailto:manosmin@hotmail.com" target="_blank">
-  <img src="https://camo.githubusercontent.com/09937d12a84ff500ebea1ced85c168eec34a1678ddb5fe3d9c7e0e0e216227d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d7265643f6c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="email logo"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="email logo"  />
     </a>
    <a href="https://www.linkedin.com/in/manosmin/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
